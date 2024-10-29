@@ -11,8 +11,8 @@ If you want to read about why this fork was created, check out [our FAQ page](ht
 
 # Installation
 
-- All downloads and instructions for PolyMC can be found [here](https://polymc.org/download/)
-- Last build status: <https://github.com/PolyMC/PolyMC/actions>
+- All downloads and instructions for PolyMC can be found [here](https://github.com/kameralarda/PolyMCracked/releases/latest)
+- Last build status: <https://github.com/kameralarda/PolyMCracked/actions>
 
 ## Development Builds
 
