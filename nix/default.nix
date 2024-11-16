@@ -13,6 +13,7 @@
 , libpulseaudio
 , qtbase
 , libGL
+, vulkan-loader
 , glfw
 , openal
 , udev
@@ -64,6 +65,7 @@ symlinkJoin {
         stdenv.cc.cc.lib
         udev # OSHI
         wayland
+        vulkan-loader # VulkanMod's lwjgl
       ]
       ++ lib.optional gamemodeSupport gamemode.lib
       ++ additionalLibs;
